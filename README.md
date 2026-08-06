@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ansh+%F0%9F%91%8B;BCA+Student+%7C+Full-Stack+Developer;Building+Django+%2B+Python+Projects;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ansh+%F0%9F%91%8B;Full-Stack+Developer;Python+%2B+Django+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **BCA** student, passionate about building real-world web applications
+- 🎓 **BCA graduate** — passionate about building real-world, full-stack web applications
 - 🛠️ I love turning ideas into working products — from database design to a polished UI
-- 🐍 Currently deep into **Python & Django** — building full-stack, role-based platforms
+- 🐍 Deep into **Python & Django** — building full-stack, role-based platforms
 - 🌱 Exploring backend architecture, REST APIs, and clean project structure
 - 💡 Believer in "build it properly once" — clean code, proper docs, real-world thinking
 - 📫 Reach me: **your-email@example.com** _(update this)_
@@ -29,6 +29,16 @@
 Five dedicated roles (Admin, Customer, Vet, Vendor, Delivery Boy) · Razorpay payments · OTP-based auth · Real-world NGO partnership (NOC-certified)
 
 [![Repo](https://img.shields.io/badge/View-Repository-6C5CE7?style=for-the-badge&logo=github)](https://github.com/Anshu073/petcare-hub)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anshu073/Anshu073/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
@@ -63,7 +73,17 @@ Five dedicated roles (Admin, Customer, Vet, Vendor, Delivery Boy) · Razorpay pa
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshu073&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Anshu073&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anshu073&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
