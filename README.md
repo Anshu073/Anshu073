@@ -82,6 +82,6 @@ Five dedicated roles (Admin, Customer, Vet, Vendor, Delivery Boy) · Razorpay pa
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=100&section=footer" width="100%"/>
 
-**Thanks for stopping by! ⭐ Star my repos if you find them useful.**
+**Thanks for stopping by! ⭐ Star my repos if you find them useful..**
 
 </div>
